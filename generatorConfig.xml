@@ -45,7 +45,7 @@
             <property name="enableSubPackages" value="true"/>
         </javaClientGenerator>
 		
-        <table tableName="test"  domainObjectName="test2" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>
+        <table tableName="test"  domainObjectName="test" enableCountByExample="false" enableUpdateByExample="false" enableDeleteByExample="false" enableSelectByExample="false" selectByExampleQueryId="false"></table>
         
     </context>
 </generatorConfiguration>
